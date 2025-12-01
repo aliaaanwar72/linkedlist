@@ -1,6 +1,6 @@
 #include "LinkedList.h"
 #include <iostream>
-//aliaa
+//aliaa anwer
 using namespace std;
 
 LinkedList::LinkedList() {
